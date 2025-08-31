@@ -1,3 +1,4 @@
+export default quizzes;
 const quizzes = [
     {
         id: "quiz1",
@@ -30,4 +31,3 @@ const quizzes = [
     }
 ];
 
-export default quizzes;

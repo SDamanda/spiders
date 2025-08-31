@@ -1,7 +1,6 @@
-body {
-    background: #fafafa;
+#quiz1{
+color: #222;
 }
-
 .quiz-progress {
     display: flex;
     align-items: center;

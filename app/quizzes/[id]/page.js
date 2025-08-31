@@ -1,5 +1,5 @@
 import quizzes from "../../quizdata";
-
+import styles from "./[id].module.css"
 export default function QuizPage({ params }) {
     const { id } = params;
     const quiz = quizzes.find(q => q.id === id);
