@@ -37,7 +37,7 @@ h1 span {
     color: #e93333;
 }
 
-banner {
+#banner {
     display: flex;
     flex-direction: column;
     justify-content: center;
