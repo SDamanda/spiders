@@ -3,7 +3,7 @@ const quizzes = [
         id: "quiz1",
         title: "Origens do Homem-Aranha",
         description: "Teste seus conhecimentos sobre a origem de Peter Parker",
-        questions: 10,
+        questions: 10,              
         tags: [
             { label: "Quadrinhos", color: "#ffe39a", text: "#765101" },
             { label: "Fácil", color: "#d8f5d3", text: "#2e7d32" },
